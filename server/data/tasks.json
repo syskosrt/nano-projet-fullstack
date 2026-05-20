@@ -1,0 +1,18 @@
+[
+  {
+    "id": "9cb6cfd5-8e7e-493d-9ac3-dd4e64e83b40",
+    "title": "nano",
+    "description": "tes tro bo",
+    "completed": false,
+    "createdAt": "2026-05-03T01:40:17.634Z",
+    "updatedAt": "2026-05-03T01:40:55.388Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Ajouter une premiere tache",
+    "description": "Tester la creation depuis le formulaire.",
+    "completed": false,
+    "createdAt": "2026-05-03T01:25:00.000Z",
+    "updatedAt": "2026-05-03T01:25:00.000Z"
+  }
+]
